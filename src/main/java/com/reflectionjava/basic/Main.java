@@ -1,4 +1,4 @@
-package com.reflectionjava;
+package com.reflectionjava.basic;
 
 import java.util.Collection;
 import java.util.HashMap;
